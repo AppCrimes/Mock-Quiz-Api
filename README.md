@@ -1,1 +1,1 @@
-# Mock-Quiz-Api-
+# Mock-Quiz-Api
